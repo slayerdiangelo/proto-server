@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "Alan Sam",
+      "email": "slayerdiangelo@gmail.com",
+      "tele": "9445644432",
+      "address": "Jackson Villa",
+      "city": "Alleppey",
+      "state": "Kerala",
+      "password": "pass",
+      "id": 0
+    },
+    {
+      "name": "Lewis",
+      "email": "alansam69@gmail.com",
+      "tele": "2409652",
+      "address": "Jackson Villa",
+      "city": "New York",
+      "state": "Kerala",
+      "password": "passo",
+      "id": 1
+    }
+  ],
+  "books": [
+    {
+      "user_id": 0,
+      "title": "My First Python Program",
+      "author": "Desmond",
+      "desc": "Good Book",
+      "price": "200",
+      "year": "2000",
+      "id": 0
+    },
+    {
+      "user_id": 1,
+      "title": "My First Python Program",
+      "author": "Slayer",
+      "desc": "Good Quality",
+      "price": "450",
+      "year": "2015",
+      "id": 1
+    },
+    {
+      "user_id": 1,
+      "title": "Harry Potter",
+      "author": "J.K Rowling",
+      "desc": "Good Condition",
+      "price": "400",
+      "year": "2015",
+      "id": 2
+    }
+  ]
+}
