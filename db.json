@@ -2,9 +2,9 @@
   "users": [
     {
       "name": "Alan Sam",
-      "email": "slayerdiangelo@gmail.com",
+      "email": "alan@gmail.com",
       "tele": "9445644432",
-      "address": "Jackson Villa",
+      "address": "Rose House",
       "city": "Alleppey",
       "state": "Kerala",
       "password": "pass",
@@ -12,33 +12,34 @@
     },
     {
       "name": "Lewis",
-      "email": "alansam69@gmail.com",
-      "tele": "2409652",
+      "email": "lewis@gmail.com",
+      "tele": "9345646451",
       "address": "Jackson Villa",
-      "city": "New York",
-      "state": "Kerala",
-      "password": "passo",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "password": "1234",
       "id": 1
+    },
+    {
+      "name": "Peter Parker",
+      "email": "peter@gmail.com",
+      "tele": "9849746423",
+      "address": "Corner Cottage",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "password": "peter123",
+      "id": 2
     }
   ],
   "books": [
     {
       "user_id": 0,
       "title": "My First Python Program",
-      "author": "Desmond",
+      "author": "Desmond Peter",
       "desc": "Good Book",
       "price": "200",
       "year": "2000",
       "id": 0
-    },
-    {
-      "user_id": 1,
-      "title": "My First Python Program",
-      "author": "Slayer",
-      "desc": "Good Quality",
-      "price": "450",
-      "year": "2015",
-      "id": 1
     },
     {
       "user_id": 1,
@@ -47,7 +48,25 @@
       "desc": "Good Condition",
       "price": "400",
       "year": "2015",
+      "id": 1
+    },
+    {
+      "user_id": 1,
+      "title": "Percy Jackson",
+      "author": "Rick Riordan",
+      "desc": "Heavy",
+      "price": "300",
+      "year": "1999",
       "id": 2
+    },
+    {
+      "user_id": 2,
+      "title": "God of War",
+      "author": "Sony",
+      "desc": "Must Read",
+      "price": "999",
+      "year": "2020",
+      "id": 3
     }
   ]
 }
